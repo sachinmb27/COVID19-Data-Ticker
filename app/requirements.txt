@@ -1,0 +1,4 @@
+requests
+futures
+google-cloud-pubsub
+python-dotenv
