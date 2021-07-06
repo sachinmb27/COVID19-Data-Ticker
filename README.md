@@ -3,6 +3,8 @@ A module that constantly gets the latest COVID-19 data from a REST API and uploa
 
 COVID-19 API : [COVID-19 Tracking API Documentation](https://rapidapi.com/slotixsro-slotixsro-default/api/covid-19-tracking/)
 
+To access the API, create an account in [RapidAPI](https://rapidapi.com/) to get your API Access Key.
+
 ---
 
 To run this module,
